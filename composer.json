@@ -1,6 +1,7 @@
 {
     "name": "undiscovered/php-socialshare",
     "description": "Fork of dunglas/php-socialshare Retrieve social networks share counts and share links",
+    "version": "1.0",
     "type": "library",
     "require": {
         "php": "^7.4 || ^8.0",
