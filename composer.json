@@ -3,7 +3,7 @@
     "description": "Fork of dunglas/php-socialshare Retrieve social networks share counts and share links",
     "type": "library",
     "require": {
-        "php": ">=5.3",
+        "php": "^7.4 || ^8.0",
         "ext-json": "*",
         "doctrine/cache": "^1.3.0"
     },
