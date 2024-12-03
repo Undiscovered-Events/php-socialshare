@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace SocialShare\Provider;
+namespace Undiscovered\SocialShare\Provider;
 
 /**
  * Twitter.

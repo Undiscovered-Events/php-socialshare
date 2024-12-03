@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace SocialShare;
+namespace Undiscovered\SocialShare;
 
 use Doctrine\Common\Cache\Cache;
 use SocialShare\Provider\ProviderInterface;

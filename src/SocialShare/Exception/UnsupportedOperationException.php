@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace SocialShare\Exception;
+namespace Undiscovered\SocialShare\Exception;
 
 class UnsupportedOperationException extends \Exception
 {
