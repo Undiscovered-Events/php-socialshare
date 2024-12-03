@@ -10,10 +10,16 @@
     "require-dev": {
         "phpspec/phpspec": "~2.0"
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:undiscovered-events/php-socialshare.git"
+        }
+    ],
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Undiscovered\\PhpSocialshare\\": "src/"
+            "Undiscovered\\Socialshare\\": "src/"
         }
     },
     "authors": [
